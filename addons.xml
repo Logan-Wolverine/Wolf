@@ -1,0 +1,14 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " standalone = " yes " ?>
+< addon  id = " repository.wolfTV "  name = " wolftv repository "  version = " 1.0.1 "  provider-name = " logan " >
+	< extension  point = " xbmc.addon.repository "  name = " wolftv Repository " >
+		< info  comprimido = " falso " > https://dl.dropbox.com/s/zk8vo4yt24terkw/addons.xml </ info >
+		< checksum > https://dl.dropbox.com/s/w5g3lfeqlern4mw/addons.xml.md5 </ checksum >
+		< datadir  zip = " true " > https://dl.dropbox.com/s/mes4dj0wahg01ut/plugin.video.wolftv142.zip </ datadir >
+	</ extension >
+	< punto de extensión  = " xbmc.addon.metadata " >
+		< resumen > wolfTV Addon </ resumen >
+		< descripción > Addon Descripción </ descripción >
+		< descargo de responsabilidad > </ descargo de responsabilidad >
+		< plataforma > todos </ plataforma >
+	</ extension >
+</ addon >

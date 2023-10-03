@@ -1,15 +1,17 @@
 ﻿
 #EXTM3U
-#EXTINF:-1 group-title="vix",LAS ESTRELLAS LATAM
+#EXTINF:-1 group-title="LODQL",LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Crime
-http://177.53.153.21:8001/play/a09g/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Cinema
-http://177.53.153.21:8001/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Reality
-http://201.218.137.232:4123/play/a042
-#EXTINF:-1 group-title="Bics Extra", USA | Universal Premiere
-http://181.189.243.254:8000/play/a0ui/index.m3u8
+#EXTINF:-1 group-title="LOCAL", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1  group-title="LOCAL", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="LOCAL", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="LOCAL", FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="LOCAL", AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
 http://181.78.105.146:6060/play/a00h
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
@@ -64,6 +66,15 @@ http://177.93.45.155:6143/play/a01r/index.m3u8
 http://170.254.172.10:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png",Cinecanal
 http://181.78.21.60:16123/play/ch10
+#EXTINF:-1 group-title="PREMIUM", USA | Universal Crime
+http://177.53.153.21:8001/play/a09g/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", USA | Universal Cinema
+http://177.53.153.21:8001/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", USA | Universal Reality
+http://201.218.137.232:4123/play/a042
+#EXTINF:-1 group-title="PREMIUM", USA | Universal Premiere
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+
 EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 83 | Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 84 | De Película
@@ -122,23 +133,13 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/15453.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
 #EXTINF:-1,beIn Sports XTRA 
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS MTY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7 2
+#EXTINF:-1 group-title="LOCAL", AZTECA 7 2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7 3
+#EXTINF:-1 group-title="LOCAL", AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", ADN 40
+#EXTINF:-1 group-title="LOCAL", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1  group-title="Bics Extra", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Bics Extra", MILENIO
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="Bics Extra", ONCE
+#EXTINF:-1 group-title="LOCAL", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png",HISTORY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30353.m3u8
@@ -150,15 +151,15 @@ http://181.78.64.154:8000/play/a00c/index.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12071.m3u8
 
 
-#EXTINF:-1 group-title="Bics Extra", TELEMAX
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELEMAX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
-#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS LAGUNA
+#EXTINF:-1 group-title="LOCAL", MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS GDL
+#EXTINF:-1 group-title="LOCAL", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="LOCAL", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
+#EXTINF:-1 group-title="LOCAL", UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL",Cartoonito Mexico
@@ -204,43 +205,42 @@ https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
+#EXTINF:-1  group-title="DEPORTES", TUDN MX
 http://181.189.243.217:8000/play/a0ud/index.m3u8
-#EXTINF:-1 group-title="Bics", TIGO SPORTS
+#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", 
+#EXTINF:-1 group-title="DEPORTES", X
 https://linear-480.frequency.stream/dist/vix/480/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", REAL MADRID TV
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", vevo
+#EXTINF:-1 group-title="DEPORTES", vevo
 https://linear-494.frequency.stream/dist/vix/494/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", SN TV
+#EXTINF:-1 group-title="DEPORTES", SN TV
 https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix",mvs ,
+#EXTINF:-1 group-title="DEPORTES",mvs ,
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="vix", 
+#EXTINF:-1 group-title="DEPORTES", 
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", 8 MTY
+#EXTINF:-1 group-title="LOCAL", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="vix", GOLDEN 
+#EXTINF:-1 group-title="PELICULAS", GOLDEN 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", GOLDEN PLUS
+#EXTINF:-1 group-title="PELICULAS", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", GOLDEN Premier
+#EXTINF:-1 group-title="PELICULAS", GOLDEN Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", EURO NEWS
+#EXTINF:-1 group-title="NOTICIAS, EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", ATV+ PE
+#EXTINF:-1 group-title="NOTICIAS", ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", TN23
+#EXTINF:-1 group-title="NOTICIAS", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", VIVO PLAY
+#EXTINF:-1 group-title="ENTRETENIMIENTO", VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="vix", NUESTRA VISION
+#EXTINF:-1 group-title="RELIGIOSO", NUESTRA VISION
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="vix",ACTUALIZANDO LISTA
-https://bit.ly/WolfTV2
 
 #EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",PELICULAS POR PEDIDO
 http://bit.ly/CLICONDEMAN

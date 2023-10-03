@@ -1,0 +1,267 @@
+﻿
+#EXTM3U
+#EXTINF:-1 group-title="vix",LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | Universal Crime
+http://177.53.153.21:8001/play/a09g/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | Universal Cinema
+http://177.53.153.21:8001/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | Universal Reality
+http://201.218.137.232:4123/play/a042
+#EXTINF:-1 group-title="Bics Extra", USA | Universal Premiere
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
+http://181.78.105.146:6060/play/a00h
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
+http://167.250.222.35:16000/play/a040
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
+http://45.179.140.242:8000/play/a0kt
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO Latino
+https://webudit.webdicdn.lol/lb/premium692/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2 HD
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
+http://181.78.105.146:6060/play/a04f
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
+http://45.179.140.242:8000/play/a0la
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family HD
+http://181.78.105.146:6060/play/a00k
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme
+http://45.179.140.242:8000/play/a0lb
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",Paramount Channel
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg",MULTIPREMIER HD
+http://177.234.230.226:8010/play/a00h/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E HD
+http://177.53.153.21:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+http://190.27.253.211:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+http://177.53.153.21:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL
+http://45.179.140.242:8000/play/a0jw
+#EXTINF:-1,My Time Original
+https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+http://177.93.45.155:6143/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT HD-
+http://177.93.45.155:6143/play/a00l/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/172.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",STAR Channel
+http://177.93.45.155:6143/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png",SONY
+http://177.93.45.155:6143/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png",DHE
+http://170.254.172.10:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png",Cinecanal
+http://181.78.21.60:16123/play/ch10
+EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 83 | Classic +
+http://160.20.165.246:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 84 | De Película
+http://170.82.37.21:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 86 | Claro Cinema
+http://45.228.232.219:16000/play/a0na/index.m3u8
+#EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 87 | TCM
+http://177.53.153.21:8001/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 183 | Distrito Comedia
+http://45.228.234.77:3340/play/distritocomedia/index.m3u8
+#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 184 | Comedy Central 
+http://177.53.153.21:8001/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="USA | TruTV" tvg-name="USA | TruTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/150px-TruTV_logo_2014.png" group-title="ENTRETENIMIENTO", 185 | TruTV
+http://177.53.153.21:8001/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 207 | Lifetime
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=1203248171&_cdn_timestamp=1695226458&_cdn_token=47314f0fda9b10c5141608828fc28e34c924fe77
+#EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 208 | Ve Plus
+http://190.122.96.187:8888/http/006
+#EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 209 | Canal Claro
+http://45.228.232.219:16000/play/a0le/index.m3u8
+#EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 210 | Film & Arts
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=1226044819&_cdn_timestamp=1695678399&_cdn_token=feff5d095921faae64aa29a8a4c124e1b4190eea
+#EXTINF:-1 tvg-id="CL | Canal DOS" tvg-name="CL | Canal DOS" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="MISCELANEO", 211 | Canal DOS
+https://marine2.miplay.cl/dos/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Clic!" tvg-name="MX | Clic!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="ESTILOS DE VIDA", 212 | Clic!
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCLIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCLIC_stream_ln&_cdn_session=1226046699&_cdn_timestamp=1695678446&_cdn_token=3917e7a0e542369a0b7d5eee7b3ab566f13b9ecb
+#EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 213 | Más Chic
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMASCHIC_stream_pl&_cdn_session=1226057795&_cdn_timestamp=1695678678&_cdn_token=8a4acecd0954c082be25a49abc5e4a8d0fc3c75e
+#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", 214 | HGTV
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=1226059627&_cdn_timestamp=1695678718&_cdn_token=ac474d6c313d1c9a82e02bf605657a983e831955
+#EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", 215 | Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", 216 | E! Entertainment Televisión
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1226063483&_cdn_timestamp=1695678802&_cdn_token=3ce9e8cc9ffb8a5fb2347d58d7113b771ba84c67
+#EXTINF:-1 tvg-id="ES | ¡Hola! TV" tvg-name="ES | ¡Hola! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 217 | ¡Hola! TV
+http://45.228.232.205:16000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 320 | Discovery World
+http://177.53.153.21:8001/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Discovery Theater
+http://177.53.153.21:8001/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Sony Comedias
+https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Sony Novelas
+https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN DEPORTES
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN DEPORTES
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/15453.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png",ESPN MX HD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
+#EXTINF:-1,beIn Sports XTRA 
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA 7 2
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1  group-title="Bics Extra", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Bics Extra", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="Bics Extra", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png",HISTORY
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30353.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png",H2*
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37978.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://toppng.com/uploads/preview/dreamworks-logo-dreamworks-animation-logo-11563201748udwkzchrdf.png",Dreamworks TV
+http://181.78.64.154:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Marvel_Cinematic_Universe.png",CINE MARVEL
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12071.m3u8
+
+
+#EXTINF:-1 group-title="Bics Extra", TELEMAX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL",Cartoonito Mexico
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Mexico
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="ENTRETENIMIENTO",Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="DOCUMENTAL",Xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="INFANTIL",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="ENTRETENIMIENTO",Xtrema Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="INFANTIL",Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="COMEDIA",Xtrema Comedy
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="ENTRETENIMIENTO",Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="ENTRETENIMIENTO",Xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="ENTRETENIMIENTO",Xtrema Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="ENTRETENIMIENTO",Xtrema Hindi
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="ENTRETENIMIENTO",Xtrema Latina
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="ENTRETENIMIENTO",Xtrema Retro Cartoons
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="ENTRETENIMIENTO",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="ENTRETENIMIENTO",Xtrema Series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="ENTRETENIMIENTO",Xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="ENTRETENIMIENTO",Xtrema Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://181.189.243.217:8000/play/a0ud/index.m3u8
+#EXTINF:-1 group-title="Bics", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", 
+https://linear-480.frequency.stream/dist/vix/480/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", vevo
+https://linear-494.frequency.stream/dist/vix/494/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", SN TV
+https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix",mvs ,
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="vix", 
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", 8 MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+#EXTINF:-1 group-title="vix", GOLDEN 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", GOLDEN Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", EURO NEWS
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", ATV+ PE
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", TN23
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix", NUESTRA VISION
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="vix",ACTUALIZANDO LISTA
+https://bit.ly/WolfTV2
+
+#EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",PELICULAS POR PEDIDO
+http://bit.ly/CLICONDEMAN
+#EXTINF:-1 tvg-logo="https://www.cinecalidad.to/wp-content/uploads/2019/03/emboscada-final.jpg" group-title="ONDEMAN *NUEVO*",Emboscada final 2019 (Crimen | Drama | Misterio)
+http://bit.ly/CLICONDEMAN
+#EXTINF:-1 tvg-logo="https://www.cinecalidad.to/wp-content/uploads/2019/03/loca-por-el-trabajo.jpg" group-title="ONDEMAN *NUEVO*",Loca por el trabajo   (Comedia)
+http://bit.ly/CLICONDEMAN
+#EXTINF:-1 tvg-logo="https://www.cinecalidad.to/wp-content/uploads/2019/03/mula.jpg" group-title="ONDEMAN *NUEVO*",La mula     (Crimen | Drama | Suspenso)
+http://bit.ly/CLICONDEMAN
+#EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",
+#EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",
+#EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",
+#EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",
+#EXTINF:-1 tvg-logo="https: " group-title="ONDEMAN *NUEVO*",
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				Fin de lista 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

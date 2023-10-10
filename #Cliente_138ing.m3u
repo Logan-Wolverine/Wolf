@@ -159,7 +159,10 @@ http://160.20.165.245:8000/play/a00r/index.m3u8
 
 
 
-
+#EXTINF:-1  group-title="DEPORTES", i Afizzionados \/ EVENTO*
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/85072.m3u8
+#EXTINF:-1  group-title="DEPORTES", Afizzionados Enc.
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81633.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN DEPORTES
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN DEPORTES

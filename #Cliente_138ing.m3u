@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="LODQL",LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 5 SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2123.m3u8
 #EXTINF:-1 group-title="LOCAL", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1  group-title="LOCAL", A+
@@ -26,74 +28,97 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
 http://181.78.105.146:6060/play/a00h
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
 http://167.250.222.35:16000/play/a040
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
 http://45.179.140.242:8000/play/a0kt
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO Latino
-https://webudit.webdicdn.lol/lb/premium692/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2 HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO Latino
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2 HD
 http://45.179.140.242:8000/play/a0l9
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://181.78.105.146:6060/play/a04f
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://45.179.140.242:8000/play/a0la
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family HD
 http://181.78.105.146:6060/play/a00k
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme
 http://45.179.140.242:8000/play/a0lb
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",Paramount Channel
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",Paramount Channel
 http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg",MULTIPREMIER HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg",MULTIPREMIER HD
 http://177.234.230.226:8010/play/a00h/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER CHANNEL HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER CHANNEL HD
 http://45.166.92.22:58001/play/a049/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E HD
-http://177.53.153.21:8001/play/a01s/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16503.m3u8
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",AXN
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
 http://190.27.253.211:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
 http://177.53.153.21:8001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL
 http://45.179.140.242:8000/play/a0jw
-#EXTINF:-1,My Time Original
+#EXTINF:-1 group-title="PELICULAS",My Time Original
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
 http://177.93.45.155:6143/play/a00d/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT HD-
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT HD-
 http://177.93.45.155:6143/play/a00l/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/172.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",STAR Channel
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",STAR Channel
 http://177.93.45.155:6143/play/a00i/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+#EXTINF:-1 group-title="PELICULAS" ,FX
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1269116219&_cdn_timestamp=1696770282&_cdn_token=b8bf0c0b6715bf9a19d306374468e925ac0a0b97
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png",SONY
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0x8.png",SONY
 http://177.93.45.155:6143/play/a01r/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Sony Movies
+#EXTINF:-1 group-title="PELICULAS",Sony Movies
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1269110851&_cdn_timestamp=1696770178&_cdn_token=1fa882e069f4331769d81df9599174d747726dce
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png",DHE
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png",DHE
 http://170.254.172.10:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png",Cinecanal
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png",Cinecanal
 http://181.78.21.60:16123/play/ch10
-#EXTINF:-1 group-title="PREMIUM",Universal Crime
+
+#EXTINF:-1 group-title="PELICULAS",Sundance Tv
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1479.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cine Latino SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1467.m3u8
+#EXTINF:-1 group-title="PELICULAS",Cine Dinamita
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/44073.m3u8
+#EXTINF:-1 group-title="PELICULAS",TOP CINE
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="PELICULAS", Sony Comedias
+https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="PELICULAS", Sony Novelas
+https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694
+
+
+#EXTINF:-1 group-title="PELICULAS",I-Universal Reality  HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38844.m3u8
+#EXTINF:-1 group-title="PELICULAS",I-Universal Premiere  HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38845.m3u8
+#EXTINF:-1 group-title="PELICULAS",Universal Comedia HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38847.m3u8
+
+#EXTINF:-1 group-title="PELICULAS" ,Universal Crime
 http://177.53.153.21:8001/play/a09g/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",Universal Cinema
+#EXTINF:-1 group-title="PELICULAS" ,Universal Cinema
 http://177.53.153.21:8001/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",Universal Reality
+#EXTINF:-1 group-title="PELICULAS" ,Universal Reality
 http://201.218.137.232:4123/play/a042
-#EXTINF:-1 group-title="PREMIUM",Universal Premiere
+#EXTINF:-1 group-title="PELICULAS" ,Universal Premiere
 http://181.189.243.254:8000/play/a0ui/index.m3u8
 
-EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 83 | Classic +
+EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS", 83 | Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 84 | De Película
 http://170.82.37.21:8000/play/a028/index.m3u8
@@ -130,13 +155,18 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-med
 #EXTINF:-1 tvg-id="ES | ¡Hola! TV" tvg-name="ES | ¡Hola! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 217 | ¡Hola! TV
 http://45.228.232.205:16000/play/a03c/index.m3u8
 
+8341113168
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Sony Comedias
-https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Sony Novelas
-https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694
+#EXTINF:-1  group-title="CULTURA",NAT GEO
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16575.m3u8
+#EXTINF:-1  group-title="CULTURA",ANIMAL PLANET-89104
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16508.m3u8
 
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1  group-title="CULTURA",DISCOVERY TURBO
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16537.m3u8
+#EXTINF:-1 group-title="CULTURA",Discovery Science
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38471.m3u8
+#EXTINF:-1 ,DISCOVERY CHANNEL
 http://160.20.165.245:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 320 | Discovery World
 http://177.53.153.21:8001/play/a037/index.m3u8
@@ -150,7 +180,7 @@ http://160.20.165.245:8000/play/a012/index.m3u8
 http://160.20.165.245:8000/play/a016/index.m3u8
 #EXTINF:-1,FANPOP
 http://160.20.165.245:8000/play/a01g/index.m3u8
-#EXTINF:-1,FMHFAMILY
+#EXTINF:-1 ,FMHFAMILY
 http://160.20.165.245:8000/play/a01j/index.m3u8
 #EXTINF:-1,FMHKIDS
 http://160.20.165.245:8000/play/a01f/index.m3u8

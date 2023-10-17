@@ -106,12 +106,18 @@ https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/
 https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694
 
 
-#EXTINF:-1 group-title="PELICULAS",I-Universal Reality  HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38844.m3u8
-#EXTINF:-1 group-title="PELICULAS",I-Universal Premiere  HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38845.m3u8
-#EXTINF:-1 group-title="PELICULAS",Universal Comedia HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38847.m3u8
+#EXTINF:-1,01 | UNIVERSAL PREMIERE ᴴᴰ
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/220410
+#EXTINF:-1,02 | UNIVERSAL CINEMA ᴴᴰ
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/220684
+#EXTINF:-1,03 | UNIVERSAL COMEDY ᴴᴰ
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/220685
+#EXTINF:-1,04 | UNIVERSAL REALITY ᴴᴰ
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/223199
+#EXTINF:-1,05 | UNIVERSAL CRIME ᴴᴰ
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/223200
+#EXTINF:-1,06 | UNIVERSAL TV ᴴᴰ
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/223201
 
 #EXTINF:-1 group-title="PELICULAS" ,Universal Crime
 http://177.53.153.21:8001/play/a09g/index.m3u8
@@ -121,6 +127,37 @@ http://177.53.153.21:8001/play/a0aw/index.m3u8
 http://201.218.137.232:4123/play/a042
 #EXTINF:-1 group-title="PELICULAS" ,Universal Premiere
 http://181.189.243.254:8000/play/a0ui/index.m3u8
+
+#EXTINF:-1,82 | Starz Comedy FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222443
+#EXTINF:-1,84 | Starz Cinema FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222444
+#EXTINF:-1,85 | Starz Cinema East HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222445
+#EXTINF:-1,86 | Starz West HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222446
+#EXTINF:-1,87 | Starz Kids & Family 24/7 HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222447
+#EXTINF:-1,88 | Starz Black HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222448
+#EXTINF:-1,90 | Starz FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222449
+#EXTINF:-1,92 | Starz Encore Western FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222450
+#EXTINF:-1,93 | Starz Encore
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222451
+#EXTINF:-1,97 | Starz Encore Action HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222452
+#EXTINF:-1,98 | Starz Encore 2 East FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222453
+#EXTINF:-1,100 | Showtime West HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222454
+#EXTINF:-1,101 | Showtime Showcase FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222455
+#EXTINF:-1,102 | Showtime FHD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222456
+#EXTINF:-1,103 | Showtime East HD
+http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/222457
 
 EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS", 83 | Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8

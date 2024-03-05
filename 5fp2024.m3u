@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1 group-title="SERIES" group-title="HALO",halo 2-3
+https://srv16.dropload.io/hls2/01/00132/51unenda7ptz_h/master.m3u8?t=5qh2Be_p7insIzlwuUyVgAa3mOCV37YHCmw3fjjkFFo&s=1709609093&e=21600&f=662144&i=187.251&sp=0
 #EXTINF:-1 group-title="SERIES" group-title="HALO",halo 2-4
 https://srv14.dropload.io/hls2/01/00136/n2nwxknfae1w_h/master.m3u8?t=NNUGBaAWb85OVs3W-hKdMAJ4X5K-EuN5KEmX4lUBZ1c&s=1709606363&e=21600&f=684049&srv=srv10&i=0.1&sp=0&p1=srv10&p2=srv10
 #EXTINF:-1 group-title="SERIES" group-title="HALO",halo 2-5

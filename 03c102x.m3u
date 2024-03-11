@@ -26,142 +26,142 @@ http://200.41.79.165:8000/play/a04e/index.m3u8
 
 
 
-#EXTINF:-1,AXN
+#EXTINF:-1,AXN 1
+http://200.41.79.165:8000/play/a001/index.m3u8
+#EXTINF:-1,AXN2
+http://200.41.79.165:8000/play/a002/index.m3u8
+#EXTINF:-1,AXN3
 http://200.41.79.165:8000/play/a003/index.m3u8
-#EXTINF:-1,AXN
-http://200.41.79.165:8000/play/a003/index.m3u8
-#EXTINF:-1,AXN
-http://200.41.79.165:8000/play/a003/index.m3u8
-
-
+#EXTINF:-1,AXN4
+http://200.41.79.165:8000/play/a004/index.m3u8
+#EXTINF:-1,AXN5
+http://200.41.79.165:8000/play/a005/index.m3u8
+#EXTINF:-1,AXN6
+http://200.41.79.165:8000/play/a006/index.m3u8
+#EXTINF:-1,AXN7
+http://200.41.79.165:8000/play/a007/index.m3u8
+#EXTINF:-1,AXN8
+http://200.41.79.165:8000/play/a008/index.m3u8
+#EXTINF:-1,AXN9
+http://200.41.79.165:8000/play/a009/index.m3u8
 #EXTINF:-1,10
 http://200.41.79.165:8000/play/a010/index.m3u8
-#EXTINF:-1,11
+#EXTINF:-1,E! hd
 http://200.41.79.165:8000/play/a011/index.m3u8
-#EXTINF:-1,12
+#EXTINF:-1,GOLTV
 http://200.41.79.165:8000/play/a012/index.m3u8
-#EXTINF:-1,13
-http://200.41.79.165:8000/play/a013/index.m3u8
-#EXTINF:-1,14
+#EXTINF:-1,FOOD NETWORK HD
 http://200.41.79.165:8000/play/a014/index.m3u8
-#EXTINF:-1,15
+#EXTINF:-1,FUTBOIL EN AMERICA HD
 http://200.41.79.165:8000/play/a015/index.m3u8
-#EXTINF:-1,16
+#EXTINF:-1,LATINANOTICIAS HD
 http://200.41.79.165:8000/play/a016/index.m3u8
-#EXTINF:-1,17
+#EXTINF:-1,TYC SPORTS HD
 http://200.41.79.165:8000/play/a017/index.m3u8
-#EXTINF:-1,18
+#EXTINF:-1,GOLPERU HD
 http://200.41.79.165:8000/play/a018/index.m3u8
-#EXTINF:-1,19
+#EXTINF:-1,ECDF HD
 http://200.41.79.165:8000/play/a019/index.m3u8
-#EXTINF:-1,20
+#EXTINF:-1,CINEMAX HD
 http://200.41.79.165:8000/play/a020/index.m3u8
-#EXTINF:-1,21
+#EXTINF:-1,COMEDY CENTRAL HD
 http://200.41.79.165:8000/play/a021/index.m3u8
-#EXTINF:-1,22
+#EXTINF:-1,DISCOVERY HD
 http://200.41.79.165:8000/play/a022/index.m3u8
-#EXTINF:-1,23
+#EXTINF:-1,ADULT SWING HD
 http://200.41.79.165:8000/play/a023/index.m3u8
-#EXTINF:-1,24
+#EXTINF:-1,GOURMET HD
 http://200.41.79.165:8000/play/a024/index.m3u8
-#EXTINF:-1,25
-http://200.41.79.165:8000/play/a025/index.m3u8
-#EXTINF:-1,26
-http://200.41.79.165:8000/play/a026/index.m3u8
-#EXTINF:-1,27
+#EXTINF:-1,DISCOVERY KIDS HD
 http://200.41.79.165:8000/play/a027/index.m3u8
-#EXTINF:-1,28
+#EXTINF:-1,DISCOVERY H&H
 http://200.41.79.165:8000/play/a028/index.m3u8
-#EXTINF:-1,29
+#EXTINF:-1,DISCOVERY THEATER HD
 http://200.41.79.165:8000/play/a029/index.m3u8
-#EXTINF:-1,30
+
+
+#EXTINF:-1 CALIDAD 720,
+
+#EXTINF:-1,PANORAMA
 http://200.41.79.165:8000/play/a030/index.m3u8
-#EXTINF:-1,31
-http://200.41.79.165:8000/play/a031/index.m3u8
-#EXTINF:-1,32
+#EXTINF:-1,TEENNICK
 http://200.41.79.165:8000/play/a032/index.m3u8
-#EXTINF:-1,33
+#EXTINF:-1,NICK JR 720
 http://200.41.79.165:8000/play/a033/index.m3u8
-#EXTINF:-1,34
+#EXTINF:-1,TELEMUNDO INTERNATIONAL
 http://200.41.79.165:8000/play/a034/index.m3u8
-#EXTINF:-1,35
+#EXTINF:-1,WARNER TV
 http://200.41.79.165:8000/play/a035/index.m3u8
-#EXTINF:-1,36
+#EXTINF:-1,HBO
 http://200.41.79.165:8000/play/a036/index.m3u8
-#EXTINF:-1,37
-http://200.41.79.165:8000/play/a037/index.m3u8
-#EXTINF:-1,38
-http://200.41.79.165:8000/play/a038/index.m3u8
-#EXTINF:-1,39
+#EXTINF:-1,CARACOL TV
 http://200.41.79.165:8000/play/a039/index.m3u8
 #EXTINF:-1,HBO+
 http://200.41.79.165:8000/play/a040/index.m3u8
-#EXTINF:-1,41
+#EXTINF:-1,HBO SIGNATURE
 http://200.41.79.165:8000/play/a041/index.m3u8
 #EXTINF:-1,DISNEY JR
 http://200.41.79.165:8000/play/a042/index.m3u8
 #EXTINF:-1,TLNOVELAS
 http://200.41.79.165:8000/play/a043/index.m3u8
-#EXTINF:-1,T
+#EXTINF:-1,VENUS
 http://200.41.79.165:8000/play/a044/index.m3u8
 #EXTINF:-1,sextreme
 http://200.41.79.165:8000/play/a045/index.m3u8
-#EXTINF:-1,46
+#EXTINF:-1,SONY MOVIES
 http://200.41.79.165:8000/play/a046/index.m3u8
-#EXTINF:-1,47
+#EXTINF:-1,EL TIEMPO TELEVISION
 http://200.41.79.165:8000/play/a047/index.m3u8
-#EXTINF:-1,48
+#EXTINF:-1,CINECANAL 
 http://200.41.79.165:8000/play/a048/index.m3u8
-#EXTINF:-1,49
+#EXTINF:-1,V
 http://200.41.79.165:8000/play/a049/index.m3u8
-#EXTINF:-1,50
+#EXTINF:-1,ANIMAL PLANET
 http://200.41.79.165:8000/play/a050/index.m3u8
 
-#EXTINF:-1,CCNa
+#EXTINF:-1,TELECARIBE
 http://200.41.79.165:8000/play/a03a/index.m3u8
-#EXTINF:-1,CCNb
+#EXTINF:-1,CANAL TRO
 http://200.41.79.165:8000/play/a03b/index.m3u8
 #EXTINF:-1,CCNc
 http://200.41.79.165:8000/play/a03c/index.m3u8
-#EXTINF:-1,CCNd
+#EXTINF:-1,C CAPITAL
 http://200.41.79.165:8000/play/a03d/index.m3u8
-#EXTINF:-1,CCNe
+#EXTINF:-1,NICK MUSIC
 http://200.41.79.165:8000/play/a03e/index.m3u8
-#EXTINF:-1,CCNf
+#EXTINF:-1,ENLACE
 http://200.41.79.165:8000/play/a03f/index.m3u8
-#EXTINF:-1,CCNg
+#EXTINF:-1,CRISTOVISION
 http://200.41.79.165:8000/play/a03g/index.m3u8
-#EXTINF:-1,CCNh
+#EXTINF:-1,TNT SOPORTS 3
 http://200.41.79.165:8000/play/a03h/index.m3u8
 #EXTINF:-1,CCNi
 http://200.41.79.165:8000/play/a03i/index.m3u8
-#EXTINF:-1,tooncast
+#EXTINF:-1,RAI
 http://200.41.79.165:8000/play/a03j/index.m3u8
-#EXTINF:-1,CCN mex
+#EXTINF:-1,RAI 1
 http://200.41.79.165:8000/play/a03k/index.m3u8
-#EXTINF:-1,CCNm
+#EXTINF:-1,DISCOVERY TURBO
 http://200.41.79.165:8000/play/a03m/index.m3u8
-#EXTINF:-1,CCNn
+#EXTINF:-1,LAS ESTRELLAS
 http://200.41.79.165:8000/play/a03n/index.m3u8
-#EXTINF:-1,CCNñ
-http://200.41.79.165:8000/play/a03ñ/index.m3u8
-#EXTINF:-1,CCNo
+#EXTINF:-1,CABLE NOTICIAS
 http://200.41.79.165:8000/play/a03o/index.m3u8
-#EXTINF:-1,CCNp
+#EXTINF:-1,TELEFE
 http://200.41.79.165:8000/play/a03p/index.m3u8
-#EXTINF:-1,CCNq
+#EXTINF:-1,TNT SPORTS 2
 http://200.41.79.165:8000/play/a03q/index.m3u8
-#EXTINF:-1,CCNr
+#EXTINF:-1,HBO MUNDI
 http://200.41.79.165:8000/play/a03r/index.m3u8
-#EXTINF:-1,CCNs
+#EXTINF:-1,TELESUR
 http://200.41.79.165:8000/play/a03s/index.m3u8
-#EXTINF:-1,CCNt
+#EXTINF:-1,TELEPACIFICA
 http://200.41.79.165:8000/play/a03t/index.m3u8
-#EXTINF:-1,CCNx
+#EXTINF:-1,TOONCAST
 http://200.41.79.165:8000/play/a03x/index.m3u8
-#EXTINF:-1,CCNw
+#EXTINF:-1,BABY TV
 http://200.41.79.165:8000/play/a03w/index.m3u8
-#EXTINF:-1,CCNy
+#EXTINF:-1,CCN DEPORTES
 http://200.41.79.165:8000/play/a03y/index.m3u8
 #EXTINF:-1,CCNz
 http://200.41.79.165:8000/play/a03z/index.m3u8
@@ -169,15 +169,15 @@ http://200.41.79.165:8000/play/a03z/index.m3u8
 
 #EXTINF:-1,TELESUR
 http://200.41.79.165:8000/play/a04a/index.m3u8
-#EXTINF:-1,b
+#EXTINF:-1,NICKELODEON
 http://200.41.79.165:8000/play/a04b/index.m3u8
-#EXTINF:-1,c
+#EXTINF:-1,CARTOONITO
 http://200.41.79.165:8000/play/a04c/index.m3u8
-#EXTINF:-1,d
+#EXTINF:-1,DISCOVERY SCIENCE
 http://200.41.79.165:8000/play/a04d/index.m3u8
 #EXTINF:-1,CINEMAX
 http://200.41.79.165:8000/play/a04e/index.m3u8
-#EXTINF:-1,f
+#EXTINF:-1,VE PLUS
 http://200.41.79.165:8000/play/a04f/index.m3u8
 #EXTINF:-1,MTY
 http://200.41.79.165:8000/play/a04g/index.m3u8

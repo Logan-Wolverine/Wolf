@@ -17,3 +17,7 @@ https://pastebin.com/raw/b5rYeS1B
 https://raw.githubusercontent.com/Logan-Wolverine/TV/main/amc.m3u8
 #EXTINF:-1,Test 9 dune2
 https://hfs282.serversicuro.cc/hls/dnzpfmvh2xg4a3gyvbdh5olrtiyztvlwax5rxnrg5,sa3tzvxknhsrarf7nuq,js3rzvxknhzltekykiq,.urlset/master.m3u8
+#EXTINF:-1,Test 10
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1,Test 11
+http://138.255.102.3:25461/live/

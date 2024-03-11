@@ -20,4 +20,6 @@ https://hfs282.serversicuro.cc/hls/dnzpfmvh2xg4a3gyvbdh5olrtiyztvlwax5rxnrg5,sa3
 #EXTINF:-1,Test 10
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1,Test 11
-http://138.255.102.3:25461/live/
+http://45.160.12.253:8000/play/212
+#EXTINF:-1 tvg-logo="https://i.ibb.co/31J8G4X/TVE.png" group-title="Argentina", TVE
+http://200.41.79.165:8000/play/a04e/index.m3u8

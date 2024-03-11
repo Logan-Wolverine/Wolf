@@ -26,25 +26,11 @@ http://200.41.79.165:8000/play/a04e/index.m3u8
 
 
 
-#EXTINF:-1,AXN 1
+#EXTINF:-1,AXN
 http://200.41.79.165:8000/play/a001/index.m3u8
-#EXTINF:-1,AXN2
-http://200.41.79.165:8000/play/a002/index.m3u8
-#EXTINF:-1,AXN3
+#EXTINF:-1,AXN 720
 http://200.41.79.165:8000/play/a003/index.m3u8
-#EXTINF:-1,AXN4
-http://200.41.79.165:8000/play/a004/index.m3u8
-#EXTINF:-1,AXN5
-http://200.41.79.165:8000/play/a005/index.m3u8
-#EXTINF:-1,AXN6
-http://200.41.79.165:8000/play/a006/index.m3u8
-#EXTINF:-1,AXN7
-http://200.41.79.165:8000/play/a007/index.m3u8
-#EXTINF:-1,AXN8
-http://200.41.79.165:8000/play/a008/index.m3u8
-#EXTINF:-1,AXN9
-http://200.41.79.165:8000/play/a009/index.m3u8
-#EXTINF:-1,10
+#EXTINF:-1,1
 http://200.41.79.165:8000/play/a010/index.m3u8
 #EXTINF:-1,E! hd
 http://200.41.79.165:8000/play/a011/index.m3u8
@@ -192,4 +178,28 @@ http://200.41.79.165:8000/play/a04k/index.m3u8
 #EXTINF:-1.HOLA TV
 http://200.41.79.165:8000/play/a04h/index.m3u8
 #EXTINF:-1,C3V
-http://200.41.79.165:8000/play/a04j/index.m3u8
+http://200.41.79.165:8000/play/a04l/index.m3u8
+#EXTINF:-1,m
+http://200.41.79.165:8000/play/a04m/index.m3u8
+#EXTINF:-1,n
+http://200.41.79.165:8000/play/a04n/index.m3u8
+#EXTINF:-1,o
+http://200.41.79.165:8000/play/a04o/index.m3u8
+#EXTINF:-1,p
+http://200.41.79.165:8000/play/a04p/index.m3u8
+#EXTINF:-1,q
+http://200.41.79.165:8000/play/a04q/index.m3u8
+#EXTINF:-1,r
+http://200.41.79.165:8000/play/a04r/index.m3u8
+#EXTINF:-1,s
+http://200.41.79.165:8000/play/a04s/index.m3u8
+#EXTINF:-1,t
+http://200.41.79.165:8000/play/a04t/index.m3u8
+#EXTINF:-1,x
+http://200.41.79.165:8000/play/a04x/index.m3u8
+#EXTINF:-1,y
+http://200.41.79.165:8000/play/a04y/index.m3u8
+#EXTINF:-1,w
+http://200.41.79.165:8000/play/a04w/index.m3u8
+#EXTINF:-1,z
+http://200.41.79.165:8000/play/a04z/index.m3u8

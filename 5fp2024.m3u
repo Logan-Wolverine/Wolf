@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="SERIES" group-title="HALO",halo 2-3
-https://srv16.dropload.io/hls2/01/00132/51unenda7ptz_h/master.m3u8?t=5qh2Be_p7insIzlwuUyVgAa3mOCV37YHCmw3fjjkFFo&s=1709609093&e=21600&f=662144&i=187.251&sp=0
-#EXTINF:-1 group-title="SERIES" group-title="HALO",halo 2-4
-https://srv14.dropload.io/hls2/01/00136/n2nwxknfae1w_h/master.m3u8?t=NNUGBaAWb85OVs3W-hKdMAJ4X5K-EuN5KEmX4lUBZ1c&s=1709606363&e=21600&f=684049&srv=srv10&i=0.1&sp=0&p1=srv10&p2=srv10
-#EXTINF:-1 group-title="SERIES" group-title="HALO",halo 2-5
-https://cache55.vidoza.net/nvl4cakmaefeieno3xeanuvaowwswaif7qrvlq26iqoeqltcrc5xwwxdkelq/v.mp4
 
-
-#EXTINF:-1 group-title="SERIES" group-title="SR Y SRA SMIT",MR. & Mrs Smith S01.02
-https://qcgdhivljuj6.enaak-cdn.com/hls2/01/01307/72qj2d3hrt5h_n/master.m3u8?t=MaqVv1PvhyZighbpmntYZ7ksxqAGZDb5RtSuL4WjU-E&s=1709606830&e=129600&f=6536570&srv=F6vE2P5Wjncn&i=0.4&sp=1500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=17072
-#EXTINF:-1 group-title="SERIES" group-title="SR Y SRA SMIT",MR. & Mrs Smith S01.02
-https://zx3paandj894cwqf.enaak-cdn.com/hls2/01/01307/x5crecaqrc9d_n/master.m3u8?t=OBNPX02AT6cwDy6XeUkCCtbqSJGO587-qFbdmowWs3A&s=1709607312&e=129600&f=6536495&srv=iEovkvi7yPiL&i=0.4&sp=1500&p1=iEovkvi7yPiL&p2=iEovkvi7yPiL&asn=17072
-
-
-
+#EXTINF:-1 tvg-logo"https://mx.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/63/15/86/18767239.jpg" ,Shrek 3 (2007)
+https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
 #EXTINF:-1,Madame Web (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,Bob Marley: la leyenda (2024) CAM

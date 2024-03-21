@@ -2,8 +2,20 @@
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81lN82+TmjL._AC_UF894,1000_QL80_.jpg" ,Frozen 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/frozen%20II%202019.mkv
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg" ,Frozen 
+http://148.103.150.202/peliculas%20Animacion/Frozen.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/919ZUTtPbXL._AC_UF894,1000_QL80_.jpg" ,Shrek (2004)
+http://vod.tuxchannel.mx/peliculas/720/shrek.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/35/17/28/18381073.jpg" ,Shrek 2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/shrek%202.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/63/15/86/18767239.jpg" ,Shrek 3 (2007)
 https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91zZrGbDEDL._SL1500_.jpg" ,Shrek: Feliz Navidad (2007)
+http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20halls%202007.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/49/75/20235509.jpg" ,Shrek: Felices para siempre (2010)
+http://vod.tuxchannel.mx/peliculas/720/shrek%20forever%20after.mkv
+
+
 #EXTINF:-1,Madame Web (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,Bob Marley: la leyenda (2024) CAM

@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81lN82+TmjL._AC_UF894,1000_QL80_.jpg" ,Frozen 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/frozen%20II%202019.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/63/15/86/18767239.jpg" ,Shrek 3 (2007)
 https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
 #EXTINF:-1,Madame Web (2024) CAM

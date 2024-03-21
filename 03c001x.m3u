@@ -160,6 +160,7 @@ http://181.78.105.146:6060/play/a04f
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://45.179.140.242:8000/play/a0la
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO MUNDI HD
+http://45.71.252.67:8000/play/a0l7/index.m3u8
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/174
 #EXTINF:-1 group-title="PREMIUM",HBO POP
 http://38.41.8.1:8000/play/a00d

@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/Logan-Wolverine/TV/main/paramoun.m3u8
 https://raw.githubusercontent.com/Logan-Wolverine/TV/main/comcentral.m3u8
 #EXTINF:-1,Test 2.3
 https://raw.githubusercontent.com/Logan-Wolverine/TV/main/discov.m3u8
+#EXTINF:-1 ,#yomequedoencasa-----14
+http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1,Test 2
 https://raw.githubusercontent.com/Logan-Wolverine/Wolf/master/on/AFK4ertg.m3u8
 #EXTINF:-1,Test 3

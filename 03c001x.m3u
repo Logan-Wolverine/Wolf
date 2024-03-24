@@ -464,7 +464,7 @@ http://138.59.177.34:8000/play/a05c/index.m3u8
 http://177.93.45.155:6143/play/a00i/index.m3u8
 #EXTINF:-1 group-title="PELICULAS" ,FX
 http://181.78.105.146:2000/play/a05z
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-name"Fx",FX hd +1h
 http://181.78.8.90:16123/play/ch08
 #EXTINF:-1 group-title="PELICULAS",Canal Sony
 http://177.93.45.155:6143/play/a01r/index.m3u8

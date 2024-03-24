@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml" 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml" url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 #https://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,
 #https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,
 #https://raw.githubusercontent.com/Logan-Wolverine/TV/main/Cx/1/24h.m3u8 
@@ -120,7 +120,8 @@ http://161.132.243.192:50001/play/a03u/index.m3u8
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
  
  
- 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="",BitMe
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
  
  
  
@@ -138,7 +139,62 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
  
  
  
- 
+ #EXTINF:-1 group-title="24/7",PPV | 002
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/95
+#EXTINF:-1 group-title="24/7",PPV | 003
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/96
+#EXTINF:-1 group-title="24/7",PPV | 004
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/97
+#EXTINF:-1 group-title="24/7",PPV | 005
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/98
+#EXTINF:-1 group-title="24/7",PPV | 006
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/99
+#EXTINF:-1 group-title="24/7",PPV | 007
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/100
+#EXTINF:-1 group-title="24/7",PPV | 008
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/101
+#EXTINF:-1 group-title="24/7",PPV | 009
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/102
+#EXTINF:-1 group-title="24/7",PPV | 010
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/103
+#EXTINF:-1 group-title="24/7",PPV | 011
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/104
+#EXTINF:-1 group-title="24/7",PPV | 012
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/105
+#EXTINF:-1 group-title="24/7",PPV | 013
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/106
+#EXTINF:-1 group-title="24/7",PPV | 014
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/107
+#EXTINF:-1 group-title="24/7",PPV | 015
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/108
+#EXTINF:-1 group-title="24/7",PPV | 016
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/109
+#EXTINF:-1 group-title="24/7",PPV | 017
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/110
+#EXTINF:-1 group-title="24/7",PPV | 018
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/111
+#EXTINF:-1 group-title="24/7",PPV | 019
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/112
+#EXTINF:-1 group-title="24/7",PPV | 020
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/113
+#EXTINF:-1 group-title="24/7",PPV | 021
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/114
+#EXTINF:-1 group-title="24/7",PPV | 022
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/115
+#EXTINF:-1 group-title="24/7",PPV | 023
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/116
+#EXTINF:-1 group-title="24/7",PPV | 024
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/117
+#EXTINF:-1 group-title="24/7",PPV | 025
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/118
+#EXTINF:-1 group-title="24/7",PPV | 026
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/119
+#EXTINF:-1 group-title="24/7",PPV | 027
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/120
+#EXTINF:-1 group-title="24/7",PPV | 028
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/121
+#EXTINF:-1 group-title="24/7",PPV | 029
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/122
  
  
  
@@ -161,6 +217,7 @@ http://181.78.105.146:6060/play/a04f
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://45.179.140.242:8000/play/a0la
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO MUNDI
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/177.m3u8|user-agent=Mozilla/5.0
 http://37.49.225.197:8080/rowyn4405/ef2321f9/226015
 http://45.71.252.67:8000/play/a0l7/index.m3u8
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/174
@@ -171,6 +228,7 @@ http://181.78.105.146:6060/play/a00k
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme
 http://181.78.105.146:6060/play/a00l
 #EXTINF:-1  group-title="PREMIUM",HBO SIGNATURE
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/180.m3u8|user-agent=Mozilla/5.0
 http://161.132.243.192:50001/play/a03i/index.m3u8
  
  
@@ -523,21 +581,24 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
  
  
-#EXTINF:-1 tvg-id="" tvg-name="DEP | Adrenalina Sports" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",Adrenalina Sports
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",Adrenalina Sports
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1071
 #EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports FHD" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",Adrenalina Sports FHD
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1072
 
 
- 
+#EXTINF:-1 group-title="CANALES VARIADOS", UFC NET FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/5.m3u8|user-agent=Mozilla/5.0 
 #EXTINF:-1  group-title="DEPORTES",Claro Sports HD 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
  
 #EXTINF:0  group-title="DEPORTES",TUDN
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
- 
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8 
+#EXTINF:-1  group-title="DEPORTES",Afizzionados 1 HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/7.m3u8
 #EXTINF:-1  group-title="DEPORTES",Afizzionados HD
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="DEPORTES",Afizzionados
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1  group-title="DEPORTES",CLARO SPORT
 http://179.51.118.199:8000/play/4/index.m3u8

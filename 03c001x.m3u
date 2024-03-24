@@ -399,6 +399,7 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 http://181.78.105.146:6060/play/a046
  
 #EXTINF:-1 group-title="PELICULAS",Syfy Latinoamerica
+
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
  
 #EXTINF:-1 group-title="PELICULAS",AMC
@@ -454,6 +455,7 @@ http://38.41.8.1:8000/play/a01g
 #http://138.59.177.34:8000/play/a02d/index.m3u8
  
 #EXTINF:-1 group-title="PELICULAS" ,Star Channel
+https://raw.githubusercontent.com/Logan-Wolverine/TV/main/24h.m3u8
 http://181.78.8.90:16123/play/ch07
 #EXTINF:-1 group-title="PELICULAS" ,Star Channel
 http://138.59.177.34:8000/play/a05c/index.m3u8

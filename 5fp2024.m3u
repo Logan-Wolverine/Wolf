@@ -1,43 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="ESTRENOS-2024",Ricky Stanicky (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/374869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg" group-title="VOD-ESTRENO CINE (CAM)",Kung Fu Panda 4 (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg" group-title="VOD-ESTRENO CINE (CAM)",Godzilla Minus One (2023)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crypto Shadows (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNM5GbXsS9JRosEooZc5RaNmcjW.jpg" group-title="VOD-ESTRENO CINE (CAM)",Crypto Shadows (2023)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dune: Parte dos (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oRiq8kAMblyr7NuWg7qNlseZAg.jpg" group-title="VOD-ESTRENO CINE (CAM)",Dune: Parte dos (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El chico y la garza (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg" group-title="VOD-ESTRENO CINE (CAM)",El chico y la garza (2023)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El día que todo cambió (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/691eg5Ao7RKkr2QxwHcN2lQ37Dg.jpg" group-title="VOD-ESTRENO CINE (CAM)",El día que todo cambió (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic Triangle (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjUbgzEONlR9OVhRsgVDuXDiK1x.jpg" group-title="VOD-ESTRENO CINE (CAM)",Jurassic Triangle (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rescate imposible (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="VOD-ESTRENO CINE (CAM)",Rescate imposible (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Night at Terrace Lanes (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfemJpiNxtBlL726AxNVAjbqzvv.jpg" group-title="VOD-ESTRENO CINE (CAM)",Last Night at Terrace Lanes (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="VOD-ESTRENO CINE (CAM)",Lisa Frankenstein (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Beach House Murders (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpQGDH2dPusYQvgY3RLdrmhVaJF.jpg" group-title="VOD-ESTRENO CINE (CAM)",The Beach House Murders (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fuerzas Especiales (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBngIuVAgP0MOzSLlBvf6OWOrkZ.jpg" group-title="VOD-COMEDIA",Fuerzas Especiales (2014)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana 3: A través de tu mirada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg" group-title="ESTRENOS-2024",A través de mi ventana 3: A través de tu mirada (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lo que ignoramos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiCUrxdZBYtbvkojp4SXrFhKsEZ.jpg" group-title="ESTRENOS-2024",Lo que ignoramos (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Me llamo Loh Kiwan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxZTNl6uQOnVe3h3xxYI1aVFQwM.jpg" group-title="ESTRENOS-2024",Me llamo Loh Kiwan (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mea Culpa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="ESTRENOS-2024",Mea Culpa (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373928.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="ESTRENOS-2024",Suncoast (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373929.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Camp Pleasant Lake (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO4ok0SkjbTfLCICxx0uMzOBoEJ.jpg" group-title="ESTRENOS-2024",Camp Pleasant Lake (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373930.mkv
 
 
 
@@ -59,54 +21,6 @@ http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20halls%202007.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/49/75/20235509.jpg" ,Shrek: Felices para siempre (2010)
 http://vod.tuxchannel.mx/peliculas/720/shrek%20forever%20after.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Destroy All Neighbors (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIpjUy6ACDk8Fc8GkynLcIAPP49.jpg" group-title="ESTRENOS-2024",Destroy All Neighbors (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/358580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pete Davidson: Turbo Fonzarelli (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg" group-title="ESTRENOS-2024",Pete Davidson: Turbo Fonzarelli (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/358581.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The 81st Golden Globes Awards  (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg" group-title="ESTRENOS-2024",The 81st Golden Globes Awards  (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/358582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="ESTRENOS-2024",Race for Glory: Audi vs Lancia (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/358583.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sarkaaru Noukari (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rH3XK2gCegKs6jvP3PWVtxr0PQn.jpg" group-title="ESTRENOS-2024",Sarkaaru Noukari (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/358584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="ESTRENOS-2024",The Painter (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La piscina (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg" group-title="ESTRENOS-2024",La piscina (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La piscina (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg" group-title="ESTRENOS-2024",La piscina (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Night They Came Home (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" group-title="ESTRENOS-2024",The Night They Came Home (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="ESTRENOS-2024",Cazadores en tierra inhóspita (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los segundones (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg" group-title="ESTRENOS-2024",Los segundones (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monsters: El infierno del dragón (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Isg2ASUQXzFwLBTFnItfkOlqo9.jpg" group-title="ESTRENOS-2024",Monsters: El infierno del dragón (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chicas malas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OcZPwR89CM8ay8asq3J4XFeKII.jpg" group-title="ESTRENOS-2024",Chicas malas (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Si fueras el último (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" group-title="ESTRENOS-2024",Si fueras el último (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359804.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg" group-title="ESTRENOS-2024",De las cenizas (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/360214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beekeeper: El protector (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg" group-title="ESTRENOS-2024",Beekeeper: El protector (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/360215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears. Codigo Guardian (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LCQpgnvWjR37o4vVcLrh0OJJF2.jpg" group-title="VOD-ANIMACION",Boonie Bears. Codigo Guardian (2023)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369368.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dioses de la profundidad (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg" group-title="ESTRENOS-2024",Dioses de la profundidad (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369394.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Einstein y la bomba atómica (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMkM6i1EobVxq9i9al6hnG5cLh0.jpg" group-title="ESTRENOS-2024",Einstein y la bomba atómica (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lights Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS-2024",Lights Out (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369505.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Foquita: el 10 de la calle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WICSigQNUID6jHAZU5iBBFeNEF.jpg" group-title="VOD-DRAMA",La Foquita: el 10 de la calle (2020)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ferrari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg" group-title="VOD-DRAMA",Ferrari (2023)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aew Dynamite 21 02 24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg" group-title="VOD-DEPORTES",Aew Dynamite 21 02 24
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Red Right Hand (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" group-title="ESTRENOS-2024",Red Right Hand (2024)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370327.mkv
 
 #EXTINF:-1,Madame Web (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4

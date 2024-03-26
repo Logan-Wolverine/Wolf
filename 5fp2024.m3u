@@ -1,32 +1,70 @@
 #EXTM3U
 
+
+
+
+//////// //CAM
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg" group-title="ESTRENO CINE (CAM)",Kung Fu Panda 4 (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg" group-title="ESTRENO CINE (CAM)",Godzilla Minus One (2023)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crypto Shadows (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNM5GbXsS9JRosEooZc5RaNmcjW.jpg" group-title="ESTRENO CINE (CAM)",Crypto Shadows (2023)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dune: Parte dos (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oRiq8kAMblyr7NuWg7qNlseZAg.jpg" group-title="ESTRENO CINE (CAM)",Dune: Parte dos (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El chico y la garza (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg" group-title="ESTRENO CINE (CAM)",El chico y la garza (2023)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día que todo cambió (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/691eg5Ao7RKkr2QxwHcN2lQ37Dg.jpg" group-title="ESTRENO CINE (CAM)",El día que todo cambió (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Triangle (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjUbgzEONlR9OVhRsgVDuXDiK1x.jpg" group-title="ESTRENO CINE (CAM)",Jurassic Triangle (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rescate imposible (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="ESTRENO CINE (CAM)",Rescate imposible (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Last Night at Terrace Lanes (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfemJpiNxtBlL726AxNVAjbqzvv.jpg" group-title="ESTRENO CINE (CAM)",Last Night at Terrace Lanes (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="ESTRENO CINE (CAM)",Lisa Frankenstein (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Beach House Murders (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpQGDH2dPusYQvgY3RLdrmhVaJF.jpg" group-title="ESTRENO CINE (CAM)",The Beach House Murders (2024)(CAM)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373923.mp4
+
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Madame Web (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Bob Marley: la leyenda (2024) CAM
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Bob%20Marley-%20La%20leyenda%20online%20HD%20-%20Cuevana%202.mp4
+
+
+////// //2024
+
+#EXTINF:-1 tvg-id="" tvg-name="Madame Web (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg" group-title="ESTRENOS-2024",Madame Web (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/377684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos chicas a la fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg" group-title="ESTRENOS-2024",Dos chicas a la fuga (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/377032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Road House (De profesión: duro) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg" group-title="ESTRENOS-2024",Road House (De profesión: duro) (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/379327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perro y gata (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wASttItE7cVqjZGmrnRREay1p2g.jpg" group-title="ESTRENOS-2024",Perro y gata (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/379452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Arca de Noé (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeykawzHwlHBuqDJEqBro9Hv5fC.jpg" group-title="ESTRENOS-2024",El Arca de Noé (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/379453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un deseo irlandés (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg" group-title="ESTRENOS-2024",Un deseo irlandés (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/379473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shirley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="ESTRENOS-2024",Shirley (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/379474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="4K",Jurassic Park 4k
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un ladrón romántico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nif2JUyqNQBBmMYrDfmpTgwleOJ.jpg" group-title="ESTRENOS-2024",Un ladrón romántico (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megamind contra el sindicato del mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg" group-title="ESTRENOS-2024",Megamind contra el sindicato del mal (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg" group-title="ESTRENOS-2024",Bob Marley: One Love (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rescate imposible (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="ESTRENOS-2024",Rescate imposible (2024)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378574.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="ESTRENOS-2024",Ricky Stanicky (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/374869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg" group-title="VOD-ESTRENO CINE (CAM)",Kung Fu Panda 4 (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg" group-title="VOD-ESTRENO CINE (CAM)",Godzilla Minus One (2023)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crypto Shadows (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNM5GbXsS9JRosEooZc5RaNmcjW.jpg" group-title="VOD-ESTRENO CINE (CAM)",Crypto Shadows (2023)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dune: Parte dos (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oRiq8kAMblyr7NuWg7qNlseZAg.jpg" group-title="VOD-ESTRENO CINE (CAM)",Dune: Parte dos (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El chico y la garza (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg" group-title="VOD-ESTRENO CINE (CAM)",El chico y la garza (2023)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El día que todo cambió (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/691eg5Ao7RKkr2QxwHcN2lQ37Dg.jpg" group-title="VOD-ESTRENO CINE (CAM)",El día que todo cambió (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic Triangle (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjUbgzEONlR9OVhRsgVDuXDiK1x.jpg" group-title="VOD-ESTRENO CINE (CAM)",Jurassic Triangle (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rescate imposible (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="VOD-ESTRENO CINE (CAM)",Rescate imposible (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Night at Terrace Lanes (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfemJpiNxtBlL726AxNVAjbqzvv.jpg" group-title="VOD-ESTRENO CINE (CAM)",Last Night at Terrace Lanes (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="VOD-ESTRENO CINE (CAM)",Lisa Frankenstein (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Beach House Murders (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpQGDH2dPusYQvgY3RLdrmhVaJF.jpg" group-title="VOD-ESTRENO CINE (CAM)",The Beach House Murders (2024)(CAM)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fuerzas Especiales (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBngIuVAgP0MOzSLlBvf6OWOrkZ.jpg" group-title="VOD-COMEDIA",Fuerzas Especiales (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Fuerzas Especiales (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBngIuVAgP0MOzSLlBvf6OWOrkZ.jpg" group-title="2014",Fuerzas Especiales (2014)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana 3: A través de tu mirada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg" group-title="ESTRENOS-2024",A través de mi ventana 3: A través de tu mirada (2024)
+#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana 3:" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg" group-title="ESTRENOS-2024",: A través de tu mirada (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373925.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lo que ignoramos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiCUrxdZBYtbvkojp4SXrFhKsEZ.jpg" group-title="ESTRENOS-2024",Lo que ignoramos (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373926.mkv
@@ -38,27 +76,6 @@ http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373928.mkv
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373929.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Camp Pleasant Lake (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO4ok0SkjbTfLCICxx0uMzOBoEJ.jpg" group-title="ESTRENOS-2024",Camp Pleasant Lake (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/373930.mkv
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81lN82+TmjL._AC_UF894,1000_QL80_.jpg" ,Frozen 2 (2019)
-http://vod.tuxchannel.mx/peliculas/720/frozen%20II%202019.mkv
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg" ,Frozen 
-http://148.103.150.202/peliculas%20Animacion/Frozen.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/919ZUTtPbXL._AC_UF894,1000_QL80_.jpg" ,Shrek (2004)
-http://vod.tuxchannel.mx/peliculas/720/shrek.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/35/17/28/18381073.jpg" ,Shrek 2 (2004)
-http://vod.tuxchannel.mx/peliculas/720/shrek%202.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/63/15/86/18767239.jpg" ,Shrek 3 (2007)
-https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91zZrGbDEDL._SL1500_.jpg" ,Shrek: Feliz Navidad (2007)
-http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20halls%202007.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/49/75/20235509.jpg" ,Shrek: Felices para siempre (2010)
-http://vod.tuxchannel.mx/peliculas/720/shrek%20forever%20after.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Destroy All Neighbors (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIpjUy6ACDk8Fc8GkynLcIAPP49.jpg" group-title="ESTRENOS-2024",Destroy All Neighbors (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/358580.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pete Davidson: Turbo Fonzarelli (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg" group-title="ESTRENOS-2024",Pete Davidson: Turbo Fonzarelli (2024)
@@ -91,31 +108,75 @@ http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/359804.mkv
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/360214.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Beekeeper: El protector (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg" group-title="ESTRENOS-2024",Beekeeper: El protector (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/360215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears. Codigo Guardian (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LCQpgnvWjR37o4vVcLrh0OJJF2.jpg" group-title="VOD-ANIMACION",Boonie Bears. Codigo Guardian (2023)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369368.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dioses de la profundidad (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg" group-title="ESTRENOS-2024",Dioses de la profundidad (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Einstein y la bomba atómica (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMkM6i1EobVxq9i9al6hnG5cLh0.jpg" group-title="ESTRENOS-2024",Einstein y la bomba atómica (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369404.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lights Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ESTRENOS-2024",Lights Out (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369505.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Foquita: el 10 de la calle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WICSigQNUID6jHAZU5iBBFeNEF.jpg" group-title="VOD-DRAMA",La Foquita: el 10 de la calle (2020)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ferrari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg" group-title="VOD-DRAMA",Ferrari (2023)
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aew Dynamite 21 02 24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg" group-title="VOD-DEPORTES",Aew Dynamite 21 02 24
-http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370218.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Red Right Hand (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" group-title="ESTRENOS-2024",Red Right Hand (2024)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370327.mkv
 
-#EXTINF:-1,Madame Web (2024) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Bob Marley: la leyenda (2024) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Bob%20Marley-%20La%20leyenda%20online%20HD%20-%20Cuevana%202.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ESTRENOS-2024",Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Snoopy%20presenta-%20Bienvenido%20a%20casa%2C%20Franklin%20online%20HD%20-%20Cuevana%202.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////// //2023    			 2023  					 2023   				2023 ////////////////////////////////////////////////////////////////
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears. Codigo Guardian (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LCQpgnvWjR37o4vVcLrh0OJJF2.jpg" group-title="2023",Boonie Bears. Codigo Guardian (2023)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/369368.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Simón (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sllxb3Ydr9Rgjl1MuL7tT37ap35.jpg" group-title="2023",Simón (2023)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cualquiera menos tú (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg" group-title="2023",Cualquiera menos tú (2023)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/378329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg" group-title="2023",Ferrari (2023)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370217.mkv
+
+
+
+
 #EXTINF:-1,Buena hamburguesa 2 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Buena%20hamburguesa%202%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Snoopy%20presenta-%20Bienvenido%20a%20casa%2C%20Franklin%20online%20HD%20-%20Cuevana%202.mp4
+
+
+
+#EXTINF:-1,Teen Wolf: The Movie (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Teen%20Wolf-%20The%20Movie%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
 
 
@@ -123,8 +184,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Radical%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,Los segundones (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Los%20menospreciados%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Cazadores en tierra inhóspita (2024)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,Fuerza Bruta Sin Salida (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Fuerza%20bruta-%20sin%20salida%20online%20HD%20-%20Cuevana%202%20(SUB).mp4
 #EXTINF:-1,Mavka: Guardiana del bosque (2023)
@@ -160,9 +219,9 @@ https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3d
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,Rebel Moon: Parte uno (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Rebel%20Moon%20(Parte%20uno)-%20La%20ni%C3%B1a%20del%20fuego%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Aquaman 2: El reino perdido (2023) CAM
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Aquaman 2: El reino perdido (2023) CAM
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Aquaman%20y%20el%20reino%20perdido%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1,Noche de paz (2023) (CAM)
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Noche de paz (2023) (CAM)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Noche%20de%20paz%20online%20HD%20-%20Cuevana%202%20(CAM).mp4
 #EXTINF:-1,Los juegos del hambre (2023)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Los%20Juegos%20del%20Hambre-%20Balada%20de%20p%C3%A1jaros%20cantores%20y%20serpientes%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
@@ -195,9 +254,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1,Mavka: Guardiana del bosque (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Mavka-%20Guardiana%20del%20bosque%20online%20HD%20-%20Cuevana%202.mp4
 
-
-#EXTINF:-1,Wonka (2023) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Wonka%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1,De vuelta a Las Vegas (2023)
 http://vod.tuxchannel.mx/peliculas/720/back%20on%20the%20strip%202023.mkv
 #EXTINF:-1,Viaje todo robado (2023)
@@ -220,7 +276,7 @@ http://vod.tuxchannel.mx/peliculas/720/doctor%20who%20the%20star%20beast%202023.
 #EXTINF:-1,Paisaje con mano invisible (2023)
 http://vod.tuxchannel.mx/peliculas/720/landscape%20with%20invisible%20hand%202023.mkv
 
-#EXTINF:-1,Napoleón (2023) CAM
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Napoleón (2023) CAM
 https://od.lk/s/NV8xODkzOTY2NTNf/Ver%20Napole%C3%B3n%202023--.mp4
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FWatch%20Napoleon%202023%201080p%20CAMRip%20LAT%20DUB%20Juga%20Bet%20mkv.mp4
 #EXTINF:-1,Leo (2023)
@@ -228,7 +284,7 @@ https://od.lk/s/NV8xODkzNjEzMzJf/Ver%20Leo%202023%2C%2C.mp4
 #EXTINF:-1,El conejo de terciopelo (2023)
 https://od.lk/s/NV8xODkzODcyMjNf/Ver%20El%20conejo%20de%20peluche%202023..mp4
 
-#EXTINF:-1,Los Juegos del Hambre (2023) CAM
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Los Juegos del Hambre (2023) CAM
 https://od.lk/s/NV8xODkzMjIzMjJf/Ver%20Los%20juegos%20del%20hambre-%20La%20balada%20de%20p%C3%A1jaros%20cantores%20y%20serpientes%202023%2C%2C.mp4
 #EXTINF:-1,Recistencia (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Resistencia%20online%20HD%20-%20Cuevana%202.mp4
@@ -249,7 +305,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1,Welcome al Norte (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Welcome%20al%20Norte%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1,The Marvels (2023) CAM
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",The Marvels (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FWatch%20Marvels%202023%201080p%20CAMRip%20LAT%20DUB%20mp4.mp4
 #EXTINF:-1,LEGO Marvel Avengers: Código rojo (2023)
 http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv
@@ -263,112 +319,111 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20El%20Justiciero-%20Cap%C3%ADtulo%20final%20online%20HD%20-%20Cuevana%202.ts
 
 
-#EXTINF:-1,Freelance (2023) CAM
+#EXTINF:-1 group-title="ESTRENO CINE (CAM)",Freelance (2023) CAM
 https://od.lk/s/NV8xODkwNTg2Njlf/Ver%20Freelance%202023.mp4
-#EXTINF:-1,Saw X (2023)
+#EXTINF:-1 group-title="2023",Saw X (2023)
 http://208.88.245.85/nuevo/saw.x.dual.2023.mkv
-#EXTINF:-1,El negocio del dolor (2023)
+#EXTINF:-1 group-title="2023",El negocio del dolor (2023)
 http://208.88.245.85/nuevo/el.negocio.deldolor.dual20223.mkv
-#EXTINF:-1,Hasta la madre! del Día de los muertos (2023)
+#EXTINF:-1 group-title="2023",Hasta la madre! del Día de los muertos (2023)
 http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
-#EXTINF:-1,Five Nights at Freddy's (2023)
+#EXTINF:-1 group-title="2023",Five Nights at Freddy's (2023)
 https://server24.peliscdn.online/newhls/b5501eb755e47e473787373877bc3265/EP.0.2.v0.1698397611.720.m3u8
-#EXTINF:-1,El lado dulce de la traición (2023)
+#EXTINF:-1 group-title="2023",El lado dulce de la traición (2023)
 https://od.lk/s/NV8xODg5NDUwOTFf/HDVER%20El%20lado%20dulce%20de%20la%20traici%C3%B3n%202023.mp4
-#EXTINF:-1,Monster High 2 (2023)
+#EXTINF:-1 group-title="2023",Monster High 2 (2023)
 https://od.lk/s/NV8xODg5MjAxODhf/HDVer%20Monster%20High%202%202023.mp4
-#EXTINF:-1,Papás a la antigua (2023)
+#EXTINF:-1 group-title="2023",Papás a la antigua (2023)
 https://od.lk/s/NV8xODg4OTAyNzZf/HDVer%20Pap%C3%A1s%20a%20la%20antigua%202023.mp4
 
-#EXTINF:-1,Los asesinos de la luna (2023) CAM
+#EXTINF:-1 group-title="2023",Los asesinos de la luna (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Los%20asesinos%20de%20la%20luna%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Radical (2023) CAM
+#EXTINF:-1 group-title="2023",Radical (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Radical%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,La maldición del hombre lobo (2022)
+#EXTINF:-1 group-title="2023",La maldición del hombre lobo (2022)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Hombre%20Lobo%20por%20la%20Noche%20a%20color%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1,Winnie the Pooh: Miel y sangre (2023)
+#EXTINF:-1 group-title="2023",Winnie the Pooh: Miel y sangre (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FWatch%20Winnie%20the%20Pooh%20Miel%20Y%20Sangre%20mp4.mp4
-#EXTINF:-1,Juicio al diablo (2023)
+#EXTINF:-1 group-title="2023",Juicio al diablo (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Juicio%20al%20diablo%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,La conferencia (2023)
+#EXTINF:-1 group-title="2023",La conferencia (2023)
 https://od.lk/s/NV8xODg3NDk4MjFf/Ver%20Konferensen%202023HFD.mp4
-#EXTINF:-1,Scarygirl (2023)
+#EXTINF:-1 group-title="2023",Scarygirl (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Scarygirl%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Mortal Kombat Legends: Demonios y Angeles (2023)
+#EXTINF:-1 group-title="2023",Mortal Kombat Legends: Demonios y Angeles (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Mortal%20Kombat%20Legends-%20Cage%20Match%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Enterrando una Ambición (2023)
+#EXTINF:-1 group-title="2023",Enterrando una Ambición (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Enterrando%20una%20ambici%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Cosecha Oscura (2023)
+#EXTINF:-1 group-title="2023",Cosecha Oscura (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Dark%20Harvest%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Una Verdadera Familia Embrujada (2023)
+#EXTINF:-1 group-title="2023",Una Verdadera Familia Embrujada (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20A%20Really%20Haunted%20Loud%20House%20online%20HD%20-%20Cuevana%202.mp4
 
 
 
-#EXTINF:-1,Angela (2023)
+#EXTINF:-1 group-title="2023",Angela (2023)
 https://od.lk/s/NV8xODg2OTA4MDRf/Angela%202023.mp4
-#EXTINF:-1,Tu coño (2023)
+#EXTINF:-1 group-title="2023",Tu coño (2023)
 https://server07.mxcdnab.online/newhls/211c2d61da73cad61e707594fda81ad9/EP.0.1.v0.1696593587.720.m3u8
 
 
-#EXTINF:-1,Paw Patrol: la super pelicula (2023)
+#EXTINF:-1 group-title="2023",Paw Patrol: la super pelicula (2023)
 https://server27.mxcdnab.online/newhls/86cd445872b6890c42baf303ec23a7fb/EP.0.2.v0.1696705697.m3u8
-#EXTINF:-1,Dulces y Sangrientos 16 (2023)
+#EXTINF:-1 group-title="2023",Dulces y Sangrientos 16 (2023)
 https://server17.mxcdnab.online/newhls/f2cedcd0aeaff63329361b4396f50be9/EP.0.2.v0.1696693370.m3u8
-#EXTINF:-1,El exorcista: Creyentes (2023) CAM
+#EXTINF:-1 group-title="2023",El exorcista: Creyentes (2023) CAM
 https://server08.mxcdnab.online/newhls/669da0c595427fe917af7f20c52b1102/EP.0.2.v0.1696699970.m3u8
-#EXTINF:-1,Cementerio de Mascotas: El Origen (2023)
+#EXTINF:-1 group-title="2023",Cementerio de Mascotas: El Origen (2023)
 https://server27.mxcdnab.online/newhls/b63e0cc135a14fbee9ecaf03f00a28fc/EP.0.2.v0.1696695628.m3u8
-#EXTINF:-1,El monstruo dentro de mí (2023)
+#EXTINF:-1 group-title="2023",El monstruo dentro de mí (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20El%20monstruo%20dentro%20de%20m%C3%AD%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1,El Justiciero 3: Capítulo final (2023)
+#EXTINF:-1 group-title="2023",El Justiciero 3: Capítulo final (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20El%20Justiciero-%20Cap%C3%ADtulo%20final%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Sonido de Libertad (2023)
+#EXTINF:-1 group-title="2023",Sonido de Libertad (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Sonido%20De%20Libertad%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1,Resistencia (2023) CAM
+#EXTINF:-1 group-title="2023",Resistencia (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Resistencia%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Nowhere (2023)
+#EXTINF:-1 group-title="2023",Nowhere (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Nowhere%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Reptiles (2023)
+#EXTINF:-1 group-title="2023",Reptiles (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Reptiles%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Carga máxima (2023)
+#EXTINF:-1 group-title="2023",Carga máxima (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Carga%20M%C3%A1xima%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1,Los indestructibles 4 (2023) CAM
+#EXTINF:-1 group-title="2023",Los indestructibles 4 (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Los%20indestructibles%204%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,After. Aquí acaba todo (2023) CAM
+#EXTINF:-1 group-title="2023",After. Aquí acaba todo (2023) CAM
 https://server19.mxcdnab.online/newhls/2549498c51b7fb0afeb4c91cd943d655/EP.0.2.v0.1695021632.m3u8
-#EXTINF:-1,Nadie Podrá Salvarte (2023)
+#EXTINF:-1 group-title="2023",Nadie Podrá Salvarte (2023)
 https://v900.streamhub.ink/hls/,sc6t2nbiwiytnuzvoxas5yr76tyk3tp2ro4hepqeraywva5davr2st2u6t4a,.urlset/master.m3u8
-#EXTINF:-1,La libreta negra (2023)
+#EXTINF:-1 group-title="2023",La libreta negra (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20La%20Libreta%20Negra%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Acusado (2023)
+#EXTINF:-1 group-title="2023",Acusado (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Accused%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Mini Espias: El armagedón (2023)
+#EXTINF:-1 group-title="2023",Mini Espias: El armagedón (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Miniesp%C3%ADas-%20Armaged%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Quieres ser mi hijo? (2023)
+#EXTINF:-1 group-title="2023",Quieres ser mi hijo? (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20%C2%BFQuieres%20ser%20mi...%20hijo-%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Soltera codiciada 2 (2023)
+#EXTINF:-1 group-title="2023",Soltera codiciada 2 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Soltera%20codiciada%202%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Blue Beetle (2023)
-
+#EXTINF:-1 group-title="2023",Blue Beetle (2023)
 https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ff2a97300310a75dd7b7b4083afe3008/EP.0.2.v1.1695149195.m3u8
-#EXTINF:-1,El justiciero 3: Capítulo final (2023)
+#EXTINF:-1 group-title="2023",El justiciero 3: Capítulo final (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FThe%20Equalizer%203%20The%20chapter%20Final%20-%202023%20HDTS.mp4
-#EXTINF:-1,Escape bajo fuego (2023)
+#EXTINF:-1 group-title="2023",Escape bajo fuego (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Escape%20bajo%20fuego%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Barbie (2023)
+#EXTINF:-1 group-title="2023",Barbie (2023)
 https://pel.pys-artutos.tech/api/v1/redirectdownload/Barbie.2023.1080p.WEB-HD.x265.6CH.Dual.mkv?a=0&id=1NXI6qEcUS-3WrvZlfDNHFyhWGNKI5y5Y
-#EXTINF:-1,A millones de kilómetros (2023)
+#EXTINF:-1 group-title="2023",A millones de kilómetros (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FWatch%20Un%20mill%C3%B3n%20de%20millas%20de%20distancia%201080p%20Latino%20mp4.mp4
-#EXTINF:-1,Me vuelves loca (2023)
+#EXTINF:-1 group-title="2023",Me vuelves loca (2023)
 http://208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
-#EXTINF:-1,Hijos De Perra (2023)
+#EXTINF:-1 group-title="2023",Hijos De Perra (2023)
 http://208.88.245.85/nuevo/hijos.de.perra.dual2023.mkv
-#EXTINF:-1,Tortugas Ninja: Caos mutante (2023)
+ #EXTINF:-1#EXTINF:-1 group-title="2023",Tortugas Ninja: Caos mutante (2023)
 http://208.88.245.85/nuevo/tortugasninja.caos.mutante.dual.2023.mkv
 #EXTINF:-1,La monja II (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20La%20monja%20II%20online%20HD%20-%20Cuevana%202.mp4
@@ -564,8 +619,7 @@ https://archive.org/download/bl-4ck-ph-4nth-3r-w-4k-4nd-4-f-0r-3v-3r_202302/Jh0n
 http://208.88.245.81/nuevo/money.shot.dual2023.mkv
 #EXTINF:-1,Shazam 2 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmarz%2FVer%20%C2%A1Shazam!%20La%20furia%20de%20los%20dioses%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1,Shazam 1 (2019)
-http://vod.tuxchannel.mx/peliculas/720/shazam%202019.mkv
+
 #EXTINF:-1,65 (2023)
 https://od.lk/s/OTZfNzY1OTU0NzVf/Ver%2065%20%282023%29%20Online.mp4
 #EXTINF:-1,Scream 6 (2023) 
@@ -616,5 +670,35 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Winnie-the-Pooh-%20Blood%20and%20Honey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1,Dead Zone (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Dead%20Zone%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
-#EXTINF:-1,Teen Wolf: The Movie (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Teen%20Wolf-%20The%20Movie%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////// //2020
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La Foquita: el 10 de la calle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WICSigQNUID6jHAZU5iBBFeNEF.jpg" group-title="2020",La Foquita: el 10 de la calle (2020)
+http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/370216.mkv
+
+
+
+
+#EXTINF:-1 group-title="2019" tvg-logo="https://m.media-amazon.com/images/I/81lN82+TmjL._AC_UF894,1000_QL80_.jpg" ,Frozen 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/frozen%20II%202019.mkv
+#EXTINF:-1 group-title="2019",Shazam 1 (2019)
+http://vod.tuxchannel.mx/peliculas/720/shazam%202019.mkv
+#EXTINF:-1 group-title="2010"tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/49/75/20235509.jpg" ,Shrek: Felices para siempre (2010)
+http://vod.tuxchannel.mx/peliculas/720/shrek%20forever%20after.mkv
+#EXTINF:-1 group-title="2007"tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/63/15/86/18767239.jpg" ,Shrek 3 (2007)
+https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
+#EXTINF:-1 group-title="2007" tvg-logo="https://m.media-amazon.com/images/I/91zZrGbDEDL._SL1500_.jpg" ,Shrek: Feliz Navidad (2007)
+http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20halls%202007.mkv
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg" ,Frozen 
+http://148.103.150.202/peliculas%20Animacion/Frozen.mp4
+#EXTINF:-1 group-title="2004" tvg-logo="https://m.media-amazon.com/images/I/919ZUTtPbXL._AC_UF894,1000_QL80_.jpg" ,Shrek (2004)
+http://vod.tuxchannel.mx/peliculas/720/shrek.mkv
+#EXTINF:-1 group-title="2004" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/35/17/28/18381073.jpg" ,Shrek 2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/shrek%202.mkv
+

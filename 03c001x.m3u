@@ -368,47 +368,8 @@ http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/29664
 
 
 
+ 
 
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" ,DAZN 1 (L)(PPV)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180145
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" ,DAZN 2 (L)(PPV)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180146
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",DAZN 3 (L)(PPV)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180147
-#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="EVENTOS PPV MUNDIAL",DAZN 4 (L)(PPV)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180148
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://i.postimg.cc/0jzVdSj7/daznproyectox.png" ,DAZN F1 (L)(PPV)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180149
-#EXTINF:-1 tvg-id="Formula1LatinAmerica.pa" tvg-name="DAZN F1 (TV)(720)" tvg-logo="https://i.postimg.cc/0jzVdSj7/daznproyectox.png",DAZN F1 (TV)(720)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/115985
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png",Dazn La Liga (L)(PPV)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180144
-
- 
- 
- 
- 
- 
- #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  1 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  1 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153813
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  10 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  10 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153822
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  2 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  2 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153814
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  3 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  3 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153815
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  4 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  4 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153816
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  5 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  5 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153817
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  6 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  6 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153818
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  7 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  7 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153819
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  8 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  8 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153820
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  9 (X)" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema 4K (Dual Audio) | Cinema  9 (X)
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/153821
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Latino 01  (M)" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema Latino 01  (M)
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/1643
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Latino 02 (M)" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png" group-title="*****CINEMA ESTELAR*****",PPV Cinema Latino 02 (M)
@@ -791,7 +752,25 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
  
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
  
+
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" ,DAZN 1 (L)(PPV)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180145
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" ,DAZN 2 (L)(PPV)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180146
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",DAZN 3 (L)(PPV)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180147
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="EVENTOS PPV MUNDIAL",DAZN 4 (L)(PPV)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180148
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://i.postimg.cc/0jzVdSj7/daznproyectox.png" ,DAZN F1 (L)(PPV)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180149
+#EXTINF:-1 tvg-id="Formula1LatinAmerica.pa" tvg-name="DAZN F1 (TV)(720)" tvg-logo="https://i.postimg.cc/0jzVdSj7/daznproyectox.png",DAZN F1 (TV)(720)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/115985
+#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png",Dazn La Liga (L)(PPV)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/180144
+
  
+ 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",Adrenalina Sports
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1071
 #EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports FHD" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",Adrenalina Sports FHD

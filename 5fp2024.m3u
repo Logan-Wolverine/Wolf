@@ -705,3 +705,25 @@ http://vod.tuxchannel.mx/peliculas/720/shrek.mkv
 #EXTINF:-1 group-title="2004" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/35/17/28/18381073.jpg" ,Shrek 2 (2004)
 http://vod.tuxchannel.mx/peliculas/720/shrek%202.mkv
 
+
+
+
+
+/////// //series
+
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfqEBeZqfcpj9Jdivbz9Kp2Zl9W.jpg" group-title="SERIES",Halo S02 E01
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/531574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlITMrGUAiq0PQ3EMdcXanix4r0.jpg" group-title="SERIES",Halo S02 E02
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/531575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/u5fBfZjr4EfA2vs9h9Mf20ksGc9.jpg" group-title="SERIES",Halo S02 E03
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/532207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/uyj5RbCKX03yURdryQ6jXlLfaBD.jpg" group-title="SERIES",Halo S02 E04
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/532641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/82jr9i1Mj16QZ8q4ejd4BmOw8ua.jpg" group-title="SERIES",Halo S02 E05
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/533356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/aN21ZO9CUXd2kwiCqmk0ULMwPUZ.jpg" group-title="SERIES",Halo S02 E06
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/534170.mk
+#EXTINF:-1 tvg-id="" tvg-name="Halo S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/lmIFh2Z65onIle25cW2NItrnJHV.jpg" group-title="SERIES",Halo S02 E07
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/535168.mkv
+
+

@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg" ,EL COLOR PURPURA 2023 HD1
-https://delivery-node-7qaemdseslezejvk.voe-network.net/engine/hls2/01/10301/42nxk1uklcn3_,n,.urlset/master.m3u8?t=CakbEK9zj5Yie-4ax2Ov9AGWbSf7GbNEx2j8I0b42i8&s=1711726515&e=14400&f=51506033&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=187.189&sp=2500&asn=17072
-
-//////// //CAM
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg" ,EL COLOR PURPURA 2023 HD
+https://s29.fastream.to/hls2/02/00062/o0i6wv453gny_,l,n,h,x,.urlset/master.m3u8?t=Lu9OuMsDllX5-GD6apkTnMvIfKyGIrqJRMEM0IttoKA&s=1711840414&e=43200&f=314962&i=0.0&sp=0
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg" group-title="ESTRENO CINE (CAM)",Kung Fu Panda 4 (2024)(CAM)
 http://tv.proyectox.vip:8080/movie/ECU3320010025/WsTY11bPHq/375382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg" group-title="ESTRENO CINE (CAM)",Godzilla Minus One (2023)(CAM)

@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="LA CASA DE LOS FAMOSOS" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/livestreams/2024/01/17/microsoftteams-image_36_0.png",CAMARA 2
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/359049
+#EXTINF:-1 group-title="LA CASA DE LOS FAMOSOS" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/livestreams/2024/01/17/microsoftteams-image_36_0.png",CAMARA 1 (Geo Block US IP)
+https://livestream4.zazerconer.workers.dev/live/MOhb21VpSvs.m3u8
+#EXTINF:-1 group-title="LA CASA DE LOS FAMOSOS" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/livestreams/2024/01/17/microsoftteams-image_36_0.png",CAMARA 2 (Geo Block US IP)
+https://livestream4.zazerconer.workers.dev/live/F5KroaO2arE.m3u8
 #EXTINF:-1,Test 1jj
 https://hfs284.serversicuro.cc/hls/dnzpendt2xg4a3gyvbcx5krtte7757vslcawsf772lrdoxq6scftwu2tmfda/index-v1-a1.m3u8
 #EXTINF:-1,Test 1n

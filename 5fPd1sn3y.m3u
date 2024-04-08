@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S01 E01
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/397340.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S01 E02
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/397341.mkv
+#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S01 E03
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/397342.mkv
+#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S01 E04
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/397343.mkv
+#EXTINF:-1   tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S01 E05
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/397344.mkv
+#EXTINF:-1   tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S02 E01
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/508368.mkv
+#EXTINF:-1   tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S02 E02
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/508369.mkv
+#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S02 E03
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/508370.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S02 E04
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/508371.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yo_soy_Groot_Serie_de_TV-109370512-large.jpg" group-title=="Yo soy Groot",Yo soy Groot S02 E05
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/508372.mkv
 
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gz1hIpFhZB8tjsdYQQt9MGgPhI.jpg" group-title=" The Mandalorian",The Mandalorian S01 E01
 http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/128908.mkv

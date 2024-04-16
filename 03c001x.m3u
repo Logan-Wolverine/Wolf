@@ -4,7 +4,7 @@
 #https://raw.githubusercontent.com/Logan-Wolverine/TV/main/Cx/1/24h.m3u8 
 
 
-#EXTINF:-1, Ultima Actualizacion  25/03/2024
+#EXTINF:-1, Ultima Actualizacion  16/04/2024
 https://github.com/tigerlivetv/tigerlivetv.github.io/raw/1722471fe281f019227f6c4f10fee9bdccf062a2/HBOHits-movie.m3u8
 
 
@@ -74,7 +74,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
  
  
  
- 
+#EXTINF:-1 group-title="DEPORTES",WPT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
  
  
  

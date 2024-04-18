@@ -8,7 +8,10 @@
 https://github.com/tigerlivetv/tigerlivetv.github.io/raw/1722471fe281f019227f6c4f10fee9bdccf062a2/HBOHits-movie.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7",Cam 1 | La casa de los Famosos (EXCLUSIVO)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/359048
+#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7",Cam 2 | La casa de los Famosos (EXCLUSIVO)
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/359049
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trailers.png",⭐ 🎬 ➾ Trailersᴴᴰ
 https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
@@ -153,18 +156,17 @@ http://181.78.105.146:6060/play/a00h
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
 http://45.179.140.242:8000/play/a0kt
- 
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2 
 http://45.179.140.242:8000/play/a0l9
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO +
 http://181.78.105.146:6060/play/a04f 
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 http://45.179.140.242:8000/play/a0la
+#EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO +plus
+https://github.com/Logan-Wolverine/TV/raw/main/hb+.m3u8
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO MUNDI
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/177.m3u8|user-agent=Mozilla/5.0
-http://37.49.225.197:8080/rowyn4405/ef2321f9/226015
-http://45.71.252.67:8000/play/a0l7/index.m3u8
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/174
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/177.m3u8
+#EXTINF:-1 http://37.49.225.197:8080/rowyn4405/ef2321f9/226015 http://45.71.252.67:8000/play/a0l7/index.m3u8 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/174
 #EXTINF:-1 group-title="PREMIUM",HBO POP
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family

@@ -175,7 +175,8 @@ http://181.78.105.146:6060/play/a00k
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme
 http://181.78.105.146:6060/play/a00l
 #EXTINF:-1  group-title="PREMIUM",HBO SIGNATURE
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/180.m3u8|user-agent=Mozilla/5.0
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/180.m3u8
+#EXTINF:-1  group-title="PREMIUM",HBO SIGNATURE
 http://161.132.243.192:50001/play/a03i/index.m3u8
  
  
@@ -421,6 +422,7 @@ http://181.78.105.146:6060/play/a04a
 http://168.228.194.32:48091/play/a05s/index.m3u8
 #EXTINF:-1 group-title="PELICULAS",Sundance Tv
 http://181.78.105.146:6060/play/a00v
+#EXTINF:-1 group-title="PELICULAS",Sundance Tv2
 http://147.135.124.6:26503/play/a041/index.m3u8
  
 #EXTINF:-1 group-title="PELICULAS" ,Space
@@ -444,6 +446,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/260
  
 #EXTINF:-1 group-title="PELICULAS",Cine Latino
 http://181.78.105.146:6060/play/a049
+#EXTINF:-1 group-title="PELICULAS",Cine Latin
 http://200.114.68.133:8999/play/a0wq/index.m3u8
 #EXTINF:-1 group-title="PELICULAS",Cine Dinamita
  
@@ -547,6 +550,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
 http://168.228.194.32:48091/play/a07w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery World
 http://167.250.222.35:16000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery WorlD
 http://168.228.194.32:48091/play/a09z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",Discovery Theater
 
@@ -554,7 +558,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
 #EXTINF:-1 group-title="CULTURA",Discovery Home & Health
 http://168.228.194.32:48091/play/a08e/index.m3u8
 #EXTINF:-1 tvg-name="ID" group-title="CULTURA",Investigation Discovery
-
 http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 
  

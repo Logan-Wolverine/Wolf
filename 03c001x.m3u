@@ -165,10 +165,12 @@ http://45.179.140.242:8000/play/a0la
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO +plus
 https://raw.githubusercontent.com/Logan-Wolverine/TV/main/hb%2B.m3u8
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO MUNDI
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/177.m3u8
+https://raw.githubusercontent.com/Logan-Wolverine/TV/main/hbm.m3u8
 #EXTINF:-1 http://37.49.225.197:8080/rowyn4405/ef2321f9/226015 http://45.71.252.67:8000/play/a0l7/index.m3u8 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/174,..
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/177.m3u8
+https://raw.githubusercontent.com/Logan-Wolverine/TV/main/hbm.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO POP
+https://raw.githubusercontent.com/Logan-Wolverine/TV/main/hbpop.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO POP2
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1  group-title="PREMIUM" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png",HBO Family
 http://181.78.105.146:6060/play/a00k

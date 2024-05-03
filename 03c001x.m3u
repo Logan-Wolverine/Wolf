@@ -109,7 +109,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
  
  
 #EXTINF:-1 group-title="LOCAL",Unicable
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+https://raw.githubusercontent.com/Logan-Wolverine/TV/main/Unicble.m3u8
 #EXTINF:-1 group-title="LOCAL",Univision
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Unimas Miami" group-title="LOCAL",Unimas

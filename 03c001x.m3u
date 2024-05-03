@@ -85,7 +85,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
  
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="MUSICA",Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+https://raw.githubusercontent.com/Logan-Wolverine/TV/main/telehit.m3u8
 #EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="MUSICA",Videorola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 group-title="MUSICA",Bandamax
